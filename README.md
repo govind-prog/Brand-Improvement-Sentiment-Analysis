@@ -1,4 +1,4 @@
-# Real-time Twitter Sentiment Analysis for Brand Improvement and Topic Tracking
+# Real-time Brand Impovement using Sentiment Analysis
 
 
 [![Web App GIF](Figures/Web_App_GIF_Aug23.gif)](https://twitter-analysis-web-app.herokuapp.com)
