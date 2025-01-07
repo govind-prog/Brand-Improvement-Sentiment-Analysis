@@ -11,10 +11,7 @@ Try this awesome __[Real-Time Twitter Monitoring System here](https://twitter-an
 - [Chapter 1](http://bit.ly/2Zohn01): Collecting Twitter Data using Streaming Twitter API with Tweepy, MySQL, & Python
 - [Chapter 2](http://bit.ly/2PzXG5M): Twitter Sentiment Analysis and Interactive Data Visualization using RE, TextBlob, NLTK, and Plotly
 - [Chapter 3](http://bit.ly/2msOUbR): Deploy a Real-time Twitter Analytical Web App on Heroku using Dash & Plotly in Python
-- Chapter 4 (In Progress): Parallelize Streaming Twitter Sentiment Analysis using Scala, Kafka and Spark Streaming
-
-## Inspiration
-The solution for evaluating Twitter data to perform better business decisions is to keep tracking all relevant Twitter content about a brand in real-time, perform analysis as topics or issues emerge, and detect anomaly with alert. By monitoring brand mentions on Twitter, brands could inform enagement and deliver better experiences for their customers across the world.
+- Chapter 4 (In Progress): Parallelize Streaming Twitter Sentiment Analysis using Scala, Kafka and Spark Streaming
 
 ## Interesting facts from exploratory data analysis
 - Less 0.01% users will push tweets with their locations.
