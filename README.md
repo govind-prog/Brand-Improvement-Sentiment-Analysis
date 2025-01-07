@@ -19,11 +19,11 @@ Try this awesome __[Real-Time Twitter Monitoring System here](https://twitter-an
 - More than 65.6% users will write the locations in their profile, although very few of them don't live on Earth according to that fact.
 - The numbers of positive and negative tweets are relatively close and stay low compared with neural tweet number. Unless emergency events happen, lines won't fluctuate acutely.
 
-## Technical Approach - Version 2 ( ~ Sep 16)
+## Technical Approach - Version 2
 1. Build ETL pipelines based on stream processing using Kafka (In Progress)
 2. Perform sentiment analysis using Spark Streaming (In Progress)
 
-## Orignal Development - Version 1.2 (Done🎉)
+## Orignal Development - Version 1.2
 1. Extract streaming Twitter Data, preprocess data in Python, and load data into MySQL for storage
 2. Perform exploratory data analysis with Pandas & Seaborn to explore the insights
 3. Connect with Plotly for real-time interactive dashboard based on time series
@@ -84,13 +84,4 @@ Run ```Trend_Analysis_Complex``` to track topic trends on Twitter after ```Main.
 Note: Since streaming process is always on, press STOP button to finsih.
 
 ## Dash Web Application
-All things related to Dash App is placed in ```dash_app``` folder.
-
-
-## Challenges
-- Unstructured tweet texts may contain messy code and emoji characters
-- Some brands may take a long time to collection enough data to perform analysis on issue emerging since they target specify groups of people
-- Some hot words will uncover useful insights only after appearing more than 10k times on tweets
-- Plotly doesn't have well-document on reference making customize dashboard much harder
-- More challenges on the way, but Google, StackOverFlow, Towards Data Science, and GitHub will always be your best friends
-
+All things related to Dash App is placed in ```dash_app``` folder.
